@@ -50,6 +50,7 @@ namespace BMI_Calculator
         public MainWindow()
         {
             InitializeComponent();
+            OnLoadStats();
         }
         #region Part 1 of the Lab
         private void ClearBtn_Click(object sender, RoutedEventArgs e)

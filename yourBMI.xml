@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Last_x0020_Name="Wilson" First_x0020_Name="Dana" Phone_x0020_Number="3302615063" Height="69" Weight="180" Customer_x0020_BMI="26" Status="Overweight" />
+<Customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Last_x0020_Name="George" First_x0020_Name="Fred" Phone_x0020_Number="3308675310" Height="70" Weight="130" Customer_x0020_BMI="18" Status="Overweight" />
